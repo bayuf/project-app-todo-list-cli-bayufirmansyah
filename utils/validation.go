@@ -22,5 +22,5 @@ func CheckInput(m model.Task) error {
 }
 
 func IsLenghtValid(word string) bool {
-	return len(word) >= 4
+	return len(word) >= 5
 }

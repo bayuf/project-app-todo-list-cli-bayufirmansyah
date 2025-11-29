@@ -1,11 +1,5 @@
 [
   {
-    "id": 1,
-    "title": "Masak",
-    "status": "done",
-    "priority": "Low"
-  },
-  {
     "id": 2,
     "title": "Belajar Golang Dasar",
     "status": "progress",
@@ -14,7 +8,7 @@
   {
     "id": 3,
     "title": "makan",
-    "status": "new",
+    "status": "done",
     "priority": "medium"
   },
   {
@@ -22,5 +16,17 @@
     "title": "belajar backend dasar",
     "status": "new",
     "priority": "low"
+  },
+  {
+    "id": 5,
+    "title": "Bekerja",
+    "status": "done",
+    "priority": "low"
+  },
+  {
+    "id": 6,
+    "title": "Bekerja sampingan",
+    "status": "pending",
+    "priority": "high"
   }
 ]
