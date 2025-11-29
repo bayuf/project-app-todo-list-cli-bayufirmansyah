@@ -2,7 +2,7 @@
 sebuah aplikasi sederhana todo list dengan menggunakan cli cobra
 
 # command flags
-| Flags |  example  | Decription  |
+| Flags |  Example  | Decription  |
 | :---:   | :---: | :---: |
 | add | --add "task value" --priority "priority value" | add task with priority |
 |  | --add "task value" | add task with default priority (low) |
