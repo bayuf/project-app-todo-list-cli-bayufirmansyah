@@ -16,4 +16,5 @@ sebuah aplikasi sederhana todo list dengan menggunakan cli cobra
 
 | Platform | Link Video |
 | :---: | :---: |
-| ![Google Drive](https://icons.iconarchive.com/icons/marcus-roberto/google-play/512/Google-Drive-icon.png)Google Drive | https://drive.google.com/file/d/17_RKrG9F7u_yuiEzHMhu6DDC05iszVLo/view?usp=sharing |
+| <img src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/512/Google-Drive-icon.png" alt="Google Drive" width="50" />
+Google Drive | https://drive.google.com/file/d/17_RKrG9F7u_yuiEzHMhu6DDC05iszVLo/view?usp=sharing |
